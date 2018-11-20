@@ -1,0 +1,37 @@
+.divResultado{
+	margin-top: 30px;
+}
+.link{
+	padding-left: 10px;
+	cursor: pointer;
+}
+
+/*FORMULARIO*/
+.fieldset{
+	width: 500px;
+	text-align: right;
+	margin: auto;
+	padding: 10px;
+}
+.div-form{
+	margin-bottom: 5px;
+	width: 85%;	
+}
+.div-form input{
+	margin-left: 110px;
+}
+.div-form label{
+	position: absolute;
+	margin-top: 4px;		 
+}
+.principalLogin{
+	margin: 15px;
+}
+.input{
+    width: 100%;
+    height: 34px;    
+    padding-left: 5px;    
+}
+.div-button {
+	text-align:inline-block;
+} 
